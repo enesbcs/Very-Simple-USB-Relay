@@ -1,3 +1,6 @@
+IT IS NOW INTEGRATED IN THE [RPIEasy](https://github.com/enesbcs/rpieasy) project!
+There will not be new fixes or updates to this project, please use RPIEasy.
+
 # Very-Simple-USB-Relay
 A Python 3.x module for getting/setting the state of USB Relays. 
 ![Image of USB Relay](asset.jpg?raw=true)
